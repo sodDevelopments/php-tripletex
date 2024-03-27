@@ -60,4 +60,4 @@ If you want to contribute by adding one of missing APIs to this SDK you're more 
 
 # Credits
 
-Jakub Piasecki for [Ny Media AS](https://www.nymedia.no)
+Svet Borisov for OstlandskeBatopplag AS
