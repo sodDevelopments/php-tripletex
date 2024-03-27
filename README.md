@@ -7,13 +7,13 @@ Tripletex PHP SDK [API v2] [![Build Status](https://travis-ci.org/zaporylie/php-
 - Composer
 
 # Quickstart
-`composer require zaporylie/tripletex`
+`composer require ostlandskebatopplag/tripletex`
 
 or add this to your composer.json
 
 ```json
   "require": {
-      "zaporylie/tripletex": "dev-master",
+      "ostlandkebatopplag/tripletex": "dev-master",
   }
 ```
 
